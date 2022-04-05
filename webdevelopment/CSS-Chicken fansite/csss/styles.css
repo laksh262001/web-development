@@ -1,0 +1,21 @@
+/*tag collectors*/
+h1{
+   color: red;
+  font-size: 150;
+}
+/*
+img {
+background-color: red;
+}
+*/
+/*class collectors*/
+.chicken{
+  background-color: green;
+}
+.circular{
+  border-radius: 100%;
+}
+/*ID Selectors*/
+#heading{
+  color: blue;
+}
